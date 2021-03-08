@@ -1,0 +1,66 @@
+/* stylesheet for the fitness web pages*/
+/* styles for the body*/
+body {
+    background-color: #FFFF92;
+    
+}
+/* styles for the container id*/
+#container {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+header {
+margin-top: 10px;
+margin-bottom: 20px;
+background-color: brown;
+border-radius: 10px;
+box-shadow: 12px 12px 15px #404040;
+}
+nav {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     font-size: 1.25em;
+     font-weight: bold;
+     text-align: center;
+     padding: 15px;
+     margin-top: 10px;
+     margin-bottom: 10px;
+    border-top: 5px solid chartreuse;
+    border-bottom: 5px solid crimson;
+    border-radius: 20px;
+
+}
+main {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-color: darkturquoise;
+    border-radius: 30px;
+    box-shadow: 12px 12px 15px #404040;
+}
+footer {
+    font-size: .7em;
+    text-align: center;
+    margin-top: 20px;
+}
+.equip {
+   float: left;
+   padding: 0 20px 20px;
+}
+ h1 {
+    clear: left;
+} 
+
+ul {
+   /* margin-bottom: 140px;*/
+    list-style-position: inside;
+}
+dt {
+    font-weight: bold;
+
+}
+dd {
+    padding-bottom: 20px;
+}
